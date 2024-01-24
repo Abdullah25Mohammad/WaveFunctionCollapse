@@ -28,4 +28,20 @@ The output above were created using the following image as input:
 
 
 
+# Other Examples:
+
+![output_circ_entropy_resized](https://github.com/Abdullah25Mohammad/WaveFunctionCollapse/assets/147211478/775c1049-9a4e-4154-87f9-9dd3bdfc82f1)
+
+Input:
+
+![circuit_resized](https://github.com/Abdullah25Mohammad/WaveFunctionCollapse/assets/147211478/5b2fe537-1127-4131-bb83-3926e1f3f38a)
+
+
+
+![output_amog_entropy_resized](https://github.com/Abdullah25Mohammad/WaveFunctionCollapse/assets/147211478/0c1b185c-3773-4edf-b939-0dac86ebd710)
+
+Input:
+
+![amogus_resized](https://github.com/Abdullah25Mohammad/WaveFunctionCollapse/assets/147211478/5f17f249-a1f3-4392-8408-e014b94a9a42)
+
 
