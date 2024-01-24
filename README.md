@@ -2,7 +2,7 @@
 This repo uses the wave function collapse algorithm to generate pixel images, such as mazes and abstract art. It utilizes two different strategies, a crude strategy using side propagation (which was used more as an introduction into the topic), and the more advanced entropy propagation. Read more about both of these strategies in the code comments inside the respective files.
 
 
-Entropy Propagation can generate intricate pixel art patterns and mazes. It first reads an input image, and breaks it into 2x2 pixel "tiles". Using a dictionary, it takes note of each neighbor from all 4 directions. Using this, the second half of the program (the part that actually generates the images) uses the wave function collapse algorithm to lower entropy until the canvas is filled.
+Entropy Propagation can generate intricate pixel art patterns and mazes. It first reads an input image, and breaks it into 2x2 pixel "tiles". Using a dictionary, it takes note of each neighbor from all 4 directions. Using this, the second half of the program (the part that actually generates the images) uses the wave function collapse algorithm on lower entropy tiles until the canvas is filled.
 
 ## Mazes
 **Here is an example of it in action:**
