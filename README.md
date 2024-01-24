@@ -36,7 +36,7 @@ Input:
 
 ![circuit_resized](https://github.com/Abdullah25Mohammad/WaveFunctionCollapse/assets/147211478/5b2fe537-1127-4131-bb83-3926e1f3f38a)
 
---
+------------------------------------------------------------------------------------------------------------------------
 
 ![output_amog_entropy_resized](https://github.com/Abdullah25Mohammad/WaveFunctionCollapse/assets/147211478/0c1b185c-3773-4edf-b939-0dac86ebd710)
 
