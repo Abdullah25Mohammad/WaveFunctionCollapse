@@ -66,8 +66,8 @@ def add_tile_to_dict(image_list):
 
 
 """
-The other file is about converting the image to a json file. 
-This file is about using the json file to make an image (Wave Function Collapse)
+The previous part is about converting the image to a dictionary. 
+This part is about using that dictionary to make an image (Wave Function Collapse)
 """
 
 class Tile:
